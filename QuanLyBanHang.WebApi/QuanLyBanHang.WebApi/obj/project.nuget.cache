@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDJLrZgrr4+ZY0fdsvlm43yN4bnNHi1wj9jpN+gp8bQiREu5be4vbAy5HjrMzEAYxBUIM4NruY/zpq/4rCR5eQ==",
+  "success": true,
+  "projectFilePath": "D:\\Hieu2\\QuanLyBanHang\\WebApi\\QuanLyBanHang.WebApi\\QuanLyBanHang.WebApi\\QuanLyBanHang.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieutnguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
